@@ -1,0 +1,3 @@
+Hola este es mi nuevo archivo de proyecto
+En este archivo quiero dejar evidencia del funcionamiento de Git
+La fecha de hoy es 12/03/2026
