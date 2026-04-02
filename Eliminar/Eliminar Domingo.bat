@@ -1,1 +1,1 @@
-rmdir /s /q "C:\Users\levapan\Documents\Respaldo Backup\Domingo"
+rmdir /s /q "J:\Respaldo Backup\Domingo"
