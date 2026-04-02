@@ -1,0 +1,1 @@
+robocopy "Z:\Lunes" "C:\Users\levapan\Documents\Respaldo Backup\Lunes" /E

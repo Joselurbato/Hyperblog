@@ -1,0 +1,1 @@
+robocopy "Z:\Domingo" "C:\Users\levapan\Documents\Respaldo Backup\Domingo" /E

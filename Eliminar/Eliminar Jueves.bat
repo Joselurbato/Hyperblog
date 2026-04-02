@@ -1,0 +1,1 @@
+rmdir /s /q "C:\Users\levapan\Documents\Respaldo Backup\Jueves"
